@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
+// ignore: camel_case_types
 class Answer_Button extends StatelessWidget {
   Answer_Button({
     required this.answertext,
